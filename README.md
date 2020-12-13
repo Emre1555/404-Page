@@ -8,8 +8,8 @@
 
 <div align="center">
   <h3>
-    <a href="404pagedemo.netlify.app">
-      Demo > https://404pagedemo.netlify.app
+    <a href="https://404pagedemo.netlify.app">
+       https://404pagedemo.netlify.app
     </a>
      <br>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
